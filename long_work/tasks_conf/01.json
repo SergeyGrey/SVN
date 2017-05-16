@@ -1,0 +1,15 @@
+{
+	"name": "01",
+	"start_time": "10.01.2017",
+	"end_time": "30.01.2017",
+	
+	"files": [
+		"01/maket.png",
+		"01/table/index.html",
+		"01/table/images/",
+		"01/table/main.css",
+		"01/div/index.html",
+		"01/table/images/",
+		"01/table/main.css"
+	]
+}
